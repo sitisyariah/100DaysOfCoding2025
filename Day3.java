@@ -9,7 +9,8 @@
                 int b = 3; // variabel b bernilai 3
 
            /* Komentar multi baris
-           Menjumlahkan dua variabel */
+           Menjumlahkan dua variabel
+           */
 
                 int hasil = a + b;
 
