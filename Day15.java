@@ -1,7 +1,7 @@
 public class Day15.java {
     public static void main(String[] args) {
         int angka1 = 10;   // angka pertama
-        int angka2 = 4;    // angka kedua
+        byte angka2 = 4;    // angka kedua
 
         // Operasi penjumlahan
         int tambah = angka1 + angka2;
