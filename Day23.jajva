@@ -1,0 +1,12 @@
+public class Day23.java{
+    public static void main(String[] args) {
+                double jariJari = 7;     // jari-jari lingkaran
+                double phi = 3.14;       // nilai phi (π)
+
+                double luas = phi * jariJari * jariJari; // menghitung luas lingkaran
+
+                // menampilkan hasil
+                System.out.println("Jari-jari = " + jariJari);
+                System.out.println("Luas Lingkaran = " + luas);
+            }
+        }
