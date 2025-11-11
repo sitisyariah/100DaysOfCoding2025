@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BilanganFaktorial {
+public class Day65 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);   // Membuat objek Scanner untuk input
 
