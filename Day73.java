@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MenuDoWhile {
+public class Day73{
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int pilihan;
