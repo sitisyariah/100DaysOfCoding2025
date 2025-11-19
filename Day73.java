@@ -15,15 +15,15 @@ public class Day73{
 
             switch (pilihan) {
                 case 1:
-                    System.out.println("Anda memilih Penjumlahan!");
+                    System.out.println("Es teh");
                     break;
 
                 case 2:
-                    System.out.println("Anda memilih Perkalian!");
+                    System.out.println("jus jeruk");
                     break;
 
                 case 3:
-                    System.out.println("Terima kasih, program selesai.");
+                    System.out.println("capucino.");
                     break;
 
                 default:
